@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'hexagram_view.dart';
+import 'ingress_glyph_view.dart';
 
-void main() => runApp(new HexagramView());
+void main() => runApp(new GlyphView());
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
